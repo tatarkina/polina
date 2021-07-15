@@ -5,4 +5,10 @@ background:red;
 padding:10px;
 }
 a:hover{color:pink;}
-
+rainbow {
+  background: linear-gradient(to right, red, orange, yellow, green, cyan, blue, violet);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 40px;
+  line-height: 40px;
+}
