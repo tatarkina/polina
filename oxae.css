@@ -5,4 +5,4 @@ background:red;
 padding:10px;
 }
 a:hover{color:pink;}
-a:active{color:green;}
+a:link{color:green;}
